@@ -3,7 +3,7 @@
 This project focuses on the development of an intuitive, open-source development environment for FPGAs. The goal is to create comprehensive design tools with simulation and visualization capabilities for implementing digital circuits. 
 
 ## Documentation
-Project Documentation can be found on https://fentwums.github.io/fentwums-doc
+Project Documentation can be found on https://fentwums.github.io/FEntwumS-Docs/
 
 ## Repos
 
