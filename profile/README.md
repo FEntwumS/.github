@@ -7,7 +7,7 @@ Project Documentation can be found on https://fentwums.github.io/FEntwumS-Docs/
 
 ## Repos
 
-[Oneware.NetlistReaderFrontend](https://github.com/FEntwumS/Oneware.NetlistReaderFrontend) Plugin for OneWare - Includes The Netlist Viewer Frontend, as well as WaveformInteractor Plugin  
+[FEntwumS.NetlistViewer](https://github.com/FEntwumS/FEntwumS.NetlistViewer) Plugin for OneWare - Includes The Netlist Viewer Frontend, as well as WaveformInteractor Plugin  
 
 [NetlistReaderBackend](https://github.com/FEntwumS/NetlistReaderBackend) Backend for Netlist Viewer Frontend. Parses netlists and generates layout utilizing ELK  
 
